@@ -1,7 +1,7 @@
 NetChatLink
 ===========
 
-NetChatLink is a small application written in Delphi that links chats across multiple DC hubs and IRC channels. It includes support for the ADC protocol, IRC channel keys, chat filtering, per-user settings, op commands, and more. It is a fork of MyIrcDcLinks by Burek.
+NetChatLink is a small application written in Delphi that links chats across multiple DC hubs and IRC channels. It includes support for the ADC protocol, IRC channel keys, chat filtering, per-user settings, OP commands, and more.
 
 For screenshots, binaries, and other information, see the [Sourceforce project page](http://sourceforge.net/projects/netchatlink)
 
@@ -71,7 +71,9 @@ This project is licensed under the GNU GPL v3. You can find the full text of thi
 Final notes
 -----------
 
-This project is a fork of Burek's [MyIrcDcLinks](http://myircdclinks.sourceforge.net/).It is the result of me using his codebase, fixing a few bugs, and adding features such as ADC support, IRC channel keys, custom OP lists, and a few other things.
+This project is a fork of Burek's [MyIrcDcLinks](http://myircdclinks.sourceforge.net/).
+
+It is the result of me using his codebase, fixing a few bugs, and adding features such as ADC support, IRC channel keys, custom OP lists, and a few other things.
 
 Hopefully you put it to good use.
 
